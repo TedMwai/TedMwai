@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
 💫 About Me: I'm a fullstack web developer<br>
-🧠  I'm currently learning Azure cloud computing. <br>✉️  You can contact me at teddymwai11@gmail.com<br>🌍  I'm based in Nairobi, Kenya
+🧠  Currently learning Microsoft Azure. <br>✉️  You can contact me at teddymwai11@gmail.com<br>
 
 
 ## 🌐 Socials:
