@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ted</h1>
+<h1 align="left">Hi I'm Ted, 👋</h1>
 💫 About Me: I'm a fullstack web developer & Cloud Engineer<br>
 🧠  Currently learning K8 <br>✉️  You can contact me at teddymwai11@gmail.com<br>
 
